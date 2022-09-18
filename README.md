@@ -1,4 +1,4 @@
-Hello, my name is Melih.
+**Hello, my name is Melih.**
 
 - I am studying statistics (undergrad),
 - Also I am a Data Science Intern at Bilgel Software Technologies, currently I am creating a product recommendation engine for P&G and Johnson Wax.
