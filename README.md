@@ -1,7 +1,9 @@
 <h1 align=center>Hi there, I am Melih </h1>
+
 - I am studying statistics (undergrad),
 - Also I am a Data Science Intern at Bilgel Software Technologies, currently I am creating a product recommendation engine for P&G and Johnson Wax.
-
+  
+  
 Feel free to connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/melihakay) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/datamelih) 
@@ -13,13 +15,10 @@ Feel free to connect with me:
 
 ### Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melihakay&count_private=true&show_icons=True&theme=prussian)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=melihakay&theme=prussian)](https://git.io/streak-stats)
-
-<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats) 
---->
-
+<p align=center>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=melihakay&count_private=true&show_icons=True&theme=prussian" alt="melihakay">
+	<img width="49.5%" src="https://streak-stats.demolab.com/?user=melihakay&theme=prussian" alt="melihakay">
+  </p>
 
 <!---
 melihakay/melihakay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
