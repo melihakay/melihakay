@@ -1,5 +1,4 @@
-**Hello, my name is Melih.**
-
+<h1 align=center>Hi there, I am Melih </h1>
 - I am studying statistics (undergrad),
 - Also I am a Data Science Intern at Bilgel Software Technologies, currently I am creating a product recommendation engine for P&G and Johnson Wax.
 
@@ -14,11 +13,11 @@ Feel free to connect with me:
 
 ### Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melihakay&count_private=true&show_icons=True&theme=ayu-mirage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melihakay&count_private=true&show_icons=True&theme=prussian)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=melihakay&theme=ayu-mirage)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=melihakay&theme=prussian)](https://git.io/streak-stats)
 
-<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats) 
+<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats) 
 --->
 
 
