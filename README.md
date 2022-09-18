@@ -10,7 +10,7 @@ Feel free to connect with me:
 
 ### Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![PostgreSQL](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=PostgreSQL&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
 
 
 ### Stats
@@ -19,6 +19,12 @@ Feel free to connect with me:
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=melihakay&count_private=true&show_icons=True&theme=prussian" alt="melihakay">
 	<img width="49.5%" src="https://streak-stats.demolab.com/?user=melihakay&theme=prussian" alt="melihakay">
   </p>
+  
+<p align=center>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/wakatime?username=melihakay&theme=prussian" alt="melihakay">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melihakay&theme=prussian&layout=compact" alt="melihakay">
+  </p>
+
 
 <!---
 melihakay/melihakay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
