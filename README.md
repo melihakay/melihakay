@@ -3,7 +3,9 @@
 - I am studying statistics (undergrad),
 - Also I am a Data Science Intern at Bilgel Software Technologies, currently I am creating a product recommendation engine for P&G and Johnson Wax.
   
-  
+  [![@Melihakay's Holopin board](https://holopin.io/api/user/board?user=melihakay)](https://holopin.io/@melihakay) 
+
+
 Feel free to connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/melihakay) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/datamelih) 
